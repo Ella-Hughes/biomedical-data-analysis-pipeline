@@ -43,12 +43,12 @@ The dataset is available through the scikit-learn Python library.
 
 - [x] Create GitHub repository
 - [x] Write initial project README
-- [ ] Import the dataset into Python
-- [ ] Explore and clean the dataset
-- [ ] Create scientific visualisations
-- [ ] Perform statistical analysis
-- [ ] Train and evaluate a classification model
-- [ ] Document findings and limitations
+- [x] Import the dataset into Python
+- [x] Explore and clean the dataset
+- [x] Create scientific visualisations
+- [x] Perform statistical analysis
+- [x] Train and evaluate a classification model
+- [x] Document findings and limitations
 
 ## Project Status
 
