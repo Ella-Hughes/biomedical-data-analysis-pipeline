@@ -1,2 +1,2 @@
-# python-data-analysis-
-My first Python project exploring data analysis, statistics and visualisation
+# biomedical-data-analysis-pipeline
+A Python project exploring biomedical data through statistical analysis, visualisation and machine learning.
